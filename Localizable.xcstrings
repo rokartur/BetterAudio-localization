@@ -2,247 +2,733 @@
   "sourceLanguage" : "en",
   "strings" : {
     "" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "—" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : "—"
+          }
+        }
+      }
     },
-    ":" : {
-
+    " :" : {
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "%.1f s" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : "%.1f s"
+          }
+        }
+      }
     },
     "%@" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : "%@"
+          }
+        }
+      }
     },
     "%@ muted preview" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : "%@ wyciszony widok"
+          }
+        }
+      }
     },
     "%@ percent" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : "%@ procent"
+          }
+        }
+      }
     },
     "%@ unmuted preview" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : "%@ odciszony widok"
+          }
+        }
+      }
     },
     "%@%%" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : "%@%%"
+          }
+        }
+      }
     },
     "%@px" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : "%@px"
+          }
+        }
+      }
     },
     "•" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : "•"
+          }
+        }
+      }
     },
     "⚠️ Variants marked with this icon use private macOS APIs and may change or break in future updates." : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : "⚠️ Warianty oznaczone tą ikoną korzystają z prywatnych interfejsów API systemu macOS i mogą ulec zmianie lub przestać działać w przyszłych aktualizacjach."
+          }
+        }
+      }
     },
     "1 s" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : "1 s"
+          }
+        }
+      }
     },
     "A system dialog will appear" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : "Pojawi się okno dialogowe systemu."
+          }
+        }
+      }
     },
     "Accessibility" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : "Dostępność"
+          }
+        }
+      }
     },
     "Activate License" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : "Aktywuj Licencję"
+          }
+        }
+      }
     },
     "Active" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : "Aktywna"
+          }
+        }
+      }
     },
     "Active when output is" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : "Aktywne, gdy wyjście audio to"
+          }
+        }
+      }
     },
     "Aggregates quick key presses within the window and applies a single volume change. Turn off for immediate per‑press adjustments." : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : "Zbiera szybkie naciśnięcia klawiszy w oknie i stosuje pojedynczą zmianę głośności. Wyłącz, aby uzyskać natychmiastowe dostosowanie przy każdym naciśnięciu."
+          }
+        }
+      }
     },
     "All permissions are active" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : "Wszystkie uprawnienia są aktywne."
+          }
+        }
+      }
     },
     "Allow HUD in fullscreen" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : "Zezwól na HUD w trybie pełnoekranowym"
+          }
+        }
+      }
     },
     "Allow in fullscreen" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : "Zezwól w trybie pełnoekranowym"
+          }
+        }
+      }
     },
     "Already have a license key? Activate it now." : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : "Masz już klucz licencyjny? Aktywuj go teraz."
+          }
+        }
+      }
     },
     "Always visible" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : "Zawsze widoczne"
+          }
+        }
+      }
     },
     "Any output device" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : "Każde urządzenie wyjściowe"
+          }
+        }
+      }
     },
     "Applies to input and output devices for consistency with Audio MIDI Setup." : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : "Dotyczy urządzeń wejściowych i wyjściowych w celu zapewnienia zgodności z konfiguracją Audio MIDI."
+          }
+        }
+      }
     },
     "Applies to input and output devices, identical to Audio MIDI Setup." : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : "Dotyczy urządzeń wejściowych i wyjściowych, identycznie jak w przypadku konfiguracji Audio MIDI."
+          }
+        }
+      }
     },
     "Are you sure you want to deactivate the license on this device? You can activate it again on this or another computer." : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : "Czy na pewno chcesz dezaktywować licencję na tym urządzeniu? Możesz ją ponownie aktywować na tym lub innym komputerze."
+          }
+        }
+      }
     },
     "Assign a keyboard shortcut to mute the selected microphone instantly." : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : "Przypisz skrót klawiszowy, aby natychmiast wyciszyć wybrany mikrofon."
+          }
+        }
+      }
     },
     "AX" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : "AX"
+          }
+        }
+      }
     },
     "Back" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : "Wróć"
+          }
+        }
+      }
     },
     "Behavior on left click" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : "Zachowanie po kliknięciu lewym przyciskiem myszy"
+          }
+        }
+      }
     },
     "BetterAudio" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : "BetterAudio"
+          }
+        }
+      }
     },
     "BetterAudio app icon" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : "BetterAudio app icon"
+          }
+        }
+      }
     },
     "BetterAudio is here!" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : "BetterAudio jest tutaj!"
+          }
+        }
+      }
     },
     "BetterAudio requires Accessibility permission to control volume using media keys." : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : "BetterAudio wymaga uprawnień dostępności, aby sterować głośnością za pomocą klawiszy multimedialnych."
+          }
+        }
+      }
     },
     "BetterAudio Support" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : "BetterAudio Support"
+          }
+        }
+      }
     },
     "Build %@" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : "Build %@"
+          }
+        }
+      }
     },
     "Buy License" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : "Kup licencję"
+          }
+        }
+      }
     },
     "Check for Updates" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : "Sprawdź aktualizacje"
+          }
+        }
+      }
     },
     "Check Frequency" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : "Częstotliwość sprawdzania"
+          }
+        }
+      }
     },
     "Check mute status" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : "Sprawdź status wyciszenia"
+          }
+        }
+      }
     },
     "Check the box next to BetterAudio" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : "Zaznacz pole obok opcji BetterAudio"
+          }
+        }
+      }
     },
     "Choose how media keys behave" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : "Wybierz sposób działania klawiszy multimedialnych"
+          }
+        }
+      }
     },
     "Choose where the HUD appears." : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : "Wybierz miejsce wyświetlania HUD"
+          }
+        }
+      }
     },
     "Choose your path" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : "Wybierz swoją ścieżkę"
+          }
+        }
+      }
     },
     "Click \"Request Permission\"" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : "Kliknij „Poproś o pozwolenie”"
+          }
+        }
+      }
     },
     "Click to open" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : "Kliknij, aby otworzyć"
+          }
+        }
+      }
     },
     "Continue" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : "Kontynuuj"
+          }
+        }
+      }
     },
     "Continue with Free" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : "Kontynuuj bezpłatnie"
+          }
+        }
+      }
     },
     "Continue with Free Features" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : "Kontynuuj korzystanie z bezpłatnych funkcji"
+          }
+        }
+      }
     },
     "Controls %@ without changing focus" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : "Sterowanie %@ bez zmiany fokusu"
+          }
+        }
+      }
     },
     "Copied" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : "Skopiowano"
+          }
+        }
+      }
     },
     "Copy this command and run it in Terminal:" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : "Skopiuj to polecenie i uruchom je w Terminalu:"
+          }
+        }
+      }
     },
     "Current:" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "Custom Icon" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : "Własna ikona"
+          }
+        }
+      }
     },
     "Custom Name" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : "Własna nazwa"
+          }
+        }
+      }
     },
     "Customize Device" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "Customize how BetterAudio appears in your menu bar and reacts to clicks." : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "Cycle repeat" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "Cycles off -> all -> one" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "Cycles repeat mode" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "Debounce rapid volume changes" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "Debounce window" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "Device" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "Disabled" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "Display microphone status when toggling mute." : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "Display units" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "Displays track details alongside playback controls when you open the menu." : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "Drag the notification anywhere to set its position" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "Duration" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "Edit" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "Email" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "Enable BetterAudio" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "Enable routing" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "Enter Key" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "Every section includes hints like these so you can discover features at your own pace." : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "Fine-tune your input shortcuts" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "Finish" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "Force media keys" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "Force mode was turned off after Accessibility permission was lost. Re‑enable it once you add BetterAudio back to Accessibility." : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "force_use_shortcut" : {
       "extractionState" : "manual",
@@ -252,71 +738,202 @@
             "state" : "translated",
             "value" : "Use Anyway"
           }
+        },
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
         }
       }
     },
     "Free Trial Available" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "Fullscreen anchor" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "Get early access to new features (may be unstable)" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "Global shortcut" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "Go to Privacy & Security → Accessibility" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "Hold down the ⌥ key to change the snapping mode." : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "Hold the shortcut to temporarily unmute" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "Hold the shortcut to unmute temporarily, perfect for quick replies." : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "Horizontal padding" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "How long the HUD stays visible" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "How long the routing status HUD stays on screen after toggling volume key routing." : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "How long the volume HUD stays on screen after changing volume with media keys." : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "HUD Style" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "HUD visible for" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "I Have a License Key" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "If your shortcuts stopped working or you want to restore the original configuration, you can reset them here." : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "Include Beta Versions" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "Input" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "Intercept play/pause, next and previous keys to control the preferred player." : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "Keep exploring BetterAudio" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "Keeps BetterAudio ready in your menu bar without extra clicks." : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "keyboard_shortcut_disallowed" : {
       "extractionState" : "manual",
@@ -325,6 +942,11 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Option modifier must be combined with Command or Control."
+          }
+        },
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
           }
         }
       }
@@ -337,6 +959,11 @@
             "state" : "translated",
             "value" : "This keyboard shortcut cannot be used as it’s already used by the “%@” menu item."
           }
+        },
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
         }
       }
     },
@@ -347,6 +974,11 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "This keyboard shortcut cannot be used as it’s already a system-wide keyboard shortcut."
+          }
+        },
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
           }
         }
       }
@@ -359,74 +991,211 @@
             "state" : "translated",
             "value" : "Most system-wide keyboard shortcuts can be changed in “System Settings › Keyboard › Keyboard Shortcuts”."
           }
+        },
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
         }
       }
     },
     "Last checked:" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "Launch %@" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "Launch BetterAudio at login" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "Launch BetterAudio when you log in" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "Leave empty to use the original device name." : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "Let BetterAudio adjust output volume while forcing media keys. Disable to pass them through macOS." : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "Let's get you set up" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "License Key" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "Longer durations keep the HUD on screen, shorter durations fade it away faster." : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "macOS banners highlight each new track — perfect for keeping up from afar." : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "Match macOS \"Play sound effects through\" with the selected output device" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "Menu bar" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "Menu Panel Style" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "Microphone" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "Mute" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "Mute the active input and output devices together" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "Next Track" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "No input devices found" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "No output devices found" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "No release notes available" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "Now Playing" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "Odblokuj Premium" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "ok" : {
       "extractionState" : "manual",
@@ -436,50 +1205,139 @@
             "state" : "translated",
             "value" : "OK"
           }
+        },
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
         }
       }
     },
     "Open BetterAudio menu" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "Open Settings later to tweak automation, favourites and more advanced controls." : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "Open System Settings" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "or" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "Original: %@" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "Output" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "Permissions Required" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "Permissions were revoked. BetterAudio disabled media key forcing until you re‑enable Accessibility in System Settings." : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "Pick which app BetterAudio should focus for Now Playing controls and notifications." : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "Pinning" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "Placement mode" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "Position" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "Position Notification" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "Preferred player" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "press_shortcut" : {
       "extractionState" : "manual",
@@ -489,23 +1347,58 @@
             "state" : "translated",
             "value" : "Press Shortcut"
           }
+        },
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
         }
       }
     },
     "Previous Track" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "Pro Feature" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "Purchase a license to unlock this feature." : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "Push to talk" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "Ready to start using BetterAudio? Finish and you can restart onboarding anytime from Settings → Advanced." : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "record_shortcut" : {
       "extractionState" : "manual",
@@ -515,83 +1408,238 @@
             "state" : "translated",
             "value" : "Record Shortcut"
           }
+        },
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
         }
       }
     },
     "Repeat" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "Requires BetterAudio Support" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "Reset" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "Reset to Default" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "Restart BetterAudio after changing Menu Panel Style for the new look to apply." : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "Route volume keys through BetterAudio" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "Routing HUD requires BetterAudio Support" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "Routing status HUD" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "See what's playing at a glance and optionally get notifications for track changes." : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "Selected device:" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "Selected player (%@) is not running." : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "Settings" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "Show HUD" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "Show in fullscreen" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "Show mute buttons" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "Show notifications when the track changes" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "Show notifications when track changes" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "Show Now Playing in BetterAudio menu" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "Show Now Playing in menu" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "Show per-channel sliders" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "Show the Welcome HUD even if the menu bar is hidden in fullscreen spaces. Disable this if you prefer to see it only on the desktop." : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "Show volume sliders" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "Shows menu" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "Shuffle" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "Snap to edges and center" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "space_key" : {
       "extractionState" : "manual",
@@ -601,141 +1649,422 @@
             "state" : "translated",
             "value" : "Space"
           }
+        },
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
         }
       }
     },
     "Start Trial" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "Stay in the loop" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "Switch favorite input" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "Switch favorite output" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "Switch to Custom to place the HUD manually. In Menu bar mode it automatically follows the BetterAudio icon." : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "Sync system sound effects" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "Take control of media keys and fine‑tune microphone shortcuts like push‑to‑talk." : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "These settings control the visual style of the glass effect on macOS Tahoe and later. Only Regular and Clear are officially supported by Apple." : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "This app requires Accessibility permission to control volume using media keys." : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "This clears existing Automation (Apple Events) permission entries for BetterAudio so macOS will prompt again next time." : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "This will restore BetterAudio keyboard shortcuts to their default values." : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "This will show the onboarding flow again. Your existing settings are kept unless you change them during onboarding." : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "Toggle mute" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "Toggle mute instantly" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "Toggle mute shortcut" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "Toggle shuffle" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "Toggle silent mode" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "Toggles shuffle playback" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "Trial ends in" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "Type" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "Unlock up to 5s with BetterAudio Support" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "Unlock up to 6s with BetterAudio Support" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "Unlock up to 8s with BetterAudio Support" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "Until unmuted" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "Use core audio features without premium." : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "Use this if Spotify or Music no longer shows the native automation prompt when BetterAudio tries to control media playback." : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "Version %@" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "Vertical padding" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "Visible" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "Visible for" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "Volume" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "Volume HUD" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "Volume keys routing" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "Volume routing requires BetterAudio Support" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "What should a left click do" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "What's New" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "Working…" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "You can change any of these settings later in BetterAudio Settings." : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "You can re-run the onboarding screens to quickly revisit core preferences like menu bar behavior, media keys and Now Playing." : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "You can revisit these shortcuts anytime from Settings → Input." : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "You have full access to all premium features during your trial period." : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "Your %@ trial period has expired.\nActivate a license to continue using premium features." : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "Your status item, your rules" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
     },
     "Your Trial Has Ended" : {
-
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ""
+          }
+        }
+      }
+    },
+    " :": {
+      "localizations" : {
+        "pl-PL" : {
+          "stringUnit" : {
+            "value" : ":"
+          }
+        }
+      }
     }
   },
-  "version" : "1.1"
+  "version" : "1.1",
+  "availableLocales" : [
+    "pl-PL"
+  ]
 }
