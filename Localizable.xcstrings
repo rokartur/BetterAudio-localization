@@ -1,0 +1,741 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "" : {
+
+    },
+    "—" : {
+
+    },
+    ":" : {
+
+    },
+    "%.1f s" : {
+
+    },
+    "%@" : {
+
+    },
+    "%@ muted preview" : {
+
+    },
+    "%@ percent" : {
+
+    },
+    "%@ unmuted preview" : {
+
+    },
+    "%@%%" : {
+
+    },
+    "%@px" : {
+
+    },
+    "•" : {
+
+    },
+    "⚠️ Variants marked with this icon use private macOS APIs and may change or break in future updates." : {
+
+    },
+    "1 s" : {
+
+    },
+    "A system dialog will appear" : {
+
+    },
+    "Accessibility" : {
+
+    },
+    "Activate License" : {
+
+    },
+    "Active" : {
+
+    },
+    "Active when output is" : {
+
+    },
+    "Aggregates quick key presses within the window and applies a single volume change. Turn off for immediate per‑press adjustments." : {
+
+    },
+    "All permissions are active" : {
+
+    },
+    "Allow HUD in fullscreen" : {
+
+    },
+    "Allow in fullscreen" : {
+
+    },
+    "Already have a license key? Activate it now." : {
+
+    },
+    "Always visible" : {
+
+    },
+    "Any output device" : {
+
+    },
+    "Applies to input and output devices for consistency with Audio MIDI Setup." : {
+
+    },
+    "Applies to input and output devices, identical to Audio MIDI Setup." : {
+
+    },
+    "Are you sure you want to deactivate the license on this device? You can activate it again on this or another computer." : {
+
+    },
+    "Assign a keyboard shortcut to mute the selected microphone instantly." : {
+
+    },
+    "AX" : {
+
+    },
+    "Back" : {
+
+    },
+    "Behavior on left click" : {
+
+    },
+    "BetterAudio" : {
+
+    },
+    "BetterAudio app icon" : {
+
+    },
+    "BetterAudio is here!" : {
+
+    },
+    "BetterAudio requires Accessibility permission to control volume using media keys." : {
+
+    },
+    "BetterAudio Support" : {
+
+    },
+    "Build %@" : {
+
+    },
+    "Buy License" : {
+
+    },
+    "Check for Updates" : {
+
+    },
+    "Check Frequency" : {
+
+    },
+    "Check mute status" : {
+
+    },
+    "Check the box next to BetterAudio" : {
+
+    },
+    "Choose how media keys behave" : {
+
+    },
+    "Choose where the HUD appears." : {
+
+    },
+    "Choose your path" : {
+
+    },
+    "Click \"Request Permission\"" : {
+
+    },
+    "Click to open" : {
+
+    },
+    "Continue" : {
+
+    },
+    "Continue with Free" : {
+
+    },
+    "Continue with Free Features" : {
+
+    },
+    "Controls %@ without changing focus" : {
+
+    },
+    "Copied" : {
+
+    },
+    "Copy this command and run it in Terminal:" : {
+
+    },
+    "Current:" : {
+
+    },
+    "Custom Icon" : {
+
+    },
+    "Custom Name" : {
+
+    },
+    "Customize Device" : {
+
+    },
+    "Customize how BetterAudio appears in your menu bar and reacts to clicks." : {
+
+    },
+    "Cycle repeat" : {
+
+    },
+    "Cycles off -> all -> one" : {
+
+    },
+    "Cycles repeat mode" : {
+
+    },
+    "Debounce rapid volume changes" : {
+
+    },
+    "Debounce window" : {
+
+    },
+    "Device" : {
+
+    },
+    "Disabled" : {
+
+    },
+    "Display microphone status when toggling mute." : {
+
+    },
+    "Display units" : {
+
+    },
+    "Displays track details alongside playback controls when you open the menu." : {
+
+    },
+    "Drag the notification anywhere to set its position" : {
+
+    },
+    "Duration" : {
+
+    },
+    "Edit" : {
+
+    },
+    "Email" : {
+
+    },
+    "Enable BetterAudio" : {
+
+    },
+    "Enable routing" : {
+
+    },
+    "Enter Key" : {
+
+    },
+    "Every section includes hints like these so you can discover features at your own pace." : {
+
+    },
+    "Fine-tune your input shortcuts" : {
+
+    },
+    "Finish" : {
+
+    },
+    "Force media keys" : {
+
+    },
+    "Force mode was turned off after Accessibility permission was lost. Re‑enable it once you add BetterAudio back to Accessibility." : {
+
+    },
+    "force_use_shortcut" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Use Anyway"
+          }
+        }
+      }
+    },
+    "Free Trial Available" : {
+
+    },
+    "Fullscreen anchor" : {
+
+    },
+    "Get early access to new features (may be unstable)" : {
+
+    },
+    "Global shortcut" : {
+
+    },
+    "Go to Privacy & Security → Accessibility" : {
+
+    },
+    "Hold down the ⌥ key to change the snapping mode." : {
+
+    },
+    "Hold the shortcut to temporarily unmute" : {
+
+    },
+    "Hold the shortcut to unmute temporarily, perfect for quick replies." : {
+
+    },
+    "Horizontal padding" : {
+
+    },
+    "How long the HUD stays visible" : {
+
+    },
+    "How long the routing status HUD stays on screen after toggling volume key routing." : {
+
+    },
+    "How long the volume HUD stays on screen after changing volume with media keys." : {
+
+    },
+    "HUD Style" : {
+
+    },
+    "HUD visible for" : {
+
+    },
+    "I Have a License Key" : {
+
+    },
+    "If your shortcuts stopped working or you want to restore the original configuration, you can reset them here." : {
+
+    },
+    "Include Beta Versions" : {
+
+    },
+    "Input" : {
+
+    },
+    "Intercept play/pause, next and previous keys to control the preferred player." : {
+
+    },
+    "Keep exploring BetterAudio" : {
+
+    },
+    "Keeps BetterAudio ready in your menu bar without extra clicks." : {
+
+    },
+    "keyboard_shortcut_disallowed" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Option modifier must be combined with Command or Control."
+          }
+        }
+      }
+    },
+    "keyboard_shortcut_used_by_menu_item" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "This keyboard shortcut cannot be used as it’s already used by the “%@” menu item."
+          }
+        }
+      }
+    },
+    "keyboard_shortcut_used_by_system" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "This keyboard shortcut cannot be used as it’s already a system-wide keyboard shortcut."
+          }
+        }
+      }
+    },
+    "keyboard_shortcuts_can_be_changed" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Most system-wide keyboard shortcuts can be changed in “System Settings › Keyboard › Keyboard Shortcuts”."
+          }
+        }
+      }
+    },
+    "Last checked:" : {
+
+    },
+    "Launch %@" : {
+
+    },
+    "Launch BetterAudio at login" : {
+
+    },
+    "Launch BetterAudio when you log in" : {
+
+    },
+    "Leave empty to use the original device name." : {
+
+    },
+    "Let BetterAudio adjust output volume while forcing media keys. Disable to pass them through macOS." : {
+
+    },
+    "Let's get you set up" : {
+
+    },
+    "License Key" : {
+
+    },
+    "Longer durations keep the HUD on screen, shorter durations fade it away faster." : {
+
+    },
+    "macOS banners highlight each new track — perfect for keeping up from afar." : {
+
+    },
+    "Match macOS \"Play sound effects through\" with the selected output device" : {
+
+    },
+    "Menu bar" : {
+
+    },
+    "Menu Panel Style" : {
+
+    },
+    "Microphone" : {
+
+    },
+    "Mute" : {
+
+    },
+    "Mute the active input and output devices together" : {
+
+    },
+    "Next Track" : {
+
+    },
+    "No input devices found" : {
+
+    },
+    "No output devices found" : {
+
+    },
+    "No release notes available" : {
+
+    },
+    "Now Playing" : {
+
+    },
+    "Odblokuj Premium" : {
+
+    },
+    "ok" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OK"
+          }
+        }
+      }
+    },
+    "Open BetterAudio menu" : {
+
+    },
+    "Open Settings later to tweak automation, favourites and more advanced controls." : {
+
+    },
+    "Open System Settings" : {
+
+    },
+    "or" : {
+
+    },
+    "Original: %@" : {
+
+    },
+    "Output" : {
+
+    },
+    "Permissions Required" : {
+
+    },
+    "Permissions were revoked. BetterAudio disabled media key forcing until you re‑enable Accessibility in System Settings." : {
+
+    },
+    "Pick which app BetterAudio should focus for Now Playing controls and notifications." : {
+
+    },
+    "Pinning" : {
+
+    },
+    "Placement mode" : {
+
+    },
+    "Position" : {
+
+    },
+    "Position Notification" : {
+
+    },
+    "Preferred player" : {
+
+    },
+    "press_shortcut" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Press Shortcut"
+          }
+        }
+      }
+    },
+    "Previous Track" : {
+
+    },
+    "Pro Feature" : {
+
+    },
+    "Purchase a license to unlock this feature." : {
+
+    },
+    "Push to talk" : {
+
+    },
+    "Ready to start using BetterAudio? Finish and you can restart onboarding anytime from Settings → Advanced." : {
+
+    },
+    "record_shortcut" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Record Shortcut"
+          }
+        }
+      }
+    },
+    "Repeat" : {
+
+    },
+    "Requires BetterAudio Support" : {
+
+    },
+    "Reset" : {
+
+    },
+    "Reset to Default" : {
+
+    },
+    "Restart BetterAudio after changing Menu Panel Style for the new look to apply." : {
+
+    },
+    "Route volume keys through BetterAudio" : {
+
+    },
+    "Routing HUD requires BetterAudio Support" : {
+
+    },
+    "Routing status HUD" : {
+
+    },
+    "See what's playing at a glance and optionally get notifications for track changes." : {
+
+    },
+    "Selected device:" : {
+
+    },
+    "Selected player (%@) is not running." : {
+
+    },
+    "Settings" : {
+
+    },
+    "Show HUD" : {
+
+    },
+    "Show in fullscreen" : {
+
+    },
+    "Show mute buttons" : {
+
+    },
+    "Show notifications when the track changes" : {
+
+    },
+    "Show notifications when track changes" : {
+
+    },
+    "Show Now Playing in BetterAudio menu" : {
+
+    },
+    "Show Now Playing in menu" : {
+
+    },
+    "Show per-channel sliders" : {
+
+    },
+    "Show the Welcome HUD even if the menu bar is hidden in fullscreen spaces. Disable this if you prefer to see it only on the desktop." : {
+
+    },
+    "Show volume sliders" : {
+
+    },
+    "Shows menu" : {
+
+    },
+    "Shuffle" : {
+
+    },
+    "Snap to edges and center" : {
+
+    },
+    "space_key" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Space"
+          }
+        }
+      }
+    },
+    "Start Trial" : {
+
+    },
+    "Stay in the loop" : {
+
+    },
+    "Switch favorite input" : {
+
+    },
+    "Switch favorite output" : {
+
+    },
+    "Switch to Custom to place the HUD manually. In Menu bar mode it automatically follows the BetterAudio icon." : {
+
+    },
+    "Sync system sound effects" : {
+
+    },
+    "Take control of media keys and fine‑tune microphone shortcuts like push‑to‑talk." : {
+
+    },
+    "These settings control the visual style of the glass effect on macOS Tahoe and later. Only Regular and Clear are officially supported by Apple." : {
+
+    },
+    "This app requires Accessibility permission to control volume using media keys." : {
+
+    },
+    "This clears existing Automation (Apple Events) permission entries for BetterAudio so macOS will prompt again next time." : {
+
+    },
+    "This will restore BetterAudio keyboard shortcuts to their default values." : {
+
+    },
+    "This will show the onboarding flow again. Your existing settings are kept unless you change them during onboarding." : {
+
+    },
+    "Toggle mute" : {
+
+    },
+    "Toggle mute instantly" : {
+
+    },
+    "Toggle mute shortcut" : {
+
+    },
+    "Toggle shuffle" : {
+
+    },
+    "Toggle silent mode" : {
+
+    },
+    "Toggles shuffle playback" : {
+
+    },
+    "Trial ends in" : {
+
+    },
+    "Type" : {
+
+    },
+    "Unlock up to 5s with BetterAudio Support" : {
+
+    },
+    "Unlock up to 6s with BetterAudio Support" : {
+
+    },
+    "Unlock up to 8s with BetterAudio Support" : {
+
+    },
+    "Until unmuted" : {
+
+    },
+    "Use core audio features without premium." : {
+
+    },
+    "Use this if Spotify or Music no longer shows the native automation prompt when BetterAudio tries to control media playback." : {
+
+    },
+    "Version %@" : {
+
+    },
+    "Vertical padding" : {
+
+    },
+    "Visible" : {
+
+    },
+    "Visible for" : {
+
+    },
+    "Volume" : {
+
+    },
+    "Volume HUD" : {
+
+    },
+    "Volume keys routing" : {
+
+    },
+    "Volume routing requires BetterAudio Support" : {
+
+    },
+    "What should a left click do" : {
+
+    },
+    "What's New" : {
+
+    },
+    "Working…" : {
+
+    },
+    "You can change any of these settings later in BetterAudio Settings." : {
+
+    },
+    "You can re-run the onboarding screens to quickly revisit core preferences like menu bar behavior, media keys and Now Playing." : {
+
+    },
+    "You can revisit these shortcuts anytime from Settings → Input." : {
+
+    },
+    "You have full access to all premium features during your trial period." : {
+
+    },
+    "Your %@ trial period has expired.\nActivate a license to continue using premium features." : {
+
+    },
+    "Your status item, your rules" : {
+
+    },
+    "Your Trial Has Ended" : {
+
+    }
+  },
+  "version" : "1.1"
+}
